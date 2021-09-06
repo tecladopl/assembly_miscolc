@@ -1,4 +1,4 @@
-# assembly_miscolc
+# Miscolc Citizen Assembly
 Algorithm used in Miscolc Citizen Assembly to randomly selecting participants, taking into account the mapping of the city's demographic structure.
 
 Written in R. Uses simmulated annealing with genSA package.
