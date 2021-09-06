@@ -1,5 +1,5 @@
-# Miskolc Citizens' Assembly
-Algorithm used in Miskolc Citizens' Assembly to randomly selecting participants, taking into account the mapping of the city's demographic structure.
+# Miskolc Citizens' Assembly - simulated annealing
+Script for randomly selecting members of the Miskolc Citizens' Assembly, while taking into account a set of demographic criteria.
 
 Written in R. Uses simmulated annealing with genSA package.
 
