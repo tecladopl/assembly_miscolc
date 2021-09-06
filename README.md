@@ -1,5 +1,5 @@
-# Miscolc Citizen Assembly
-Algorithm used in Miscolc Citizen Assembly to randomly selecting participants, taking into account the mapping of the city's demographic structure.
+# Miskolc Citizens' Assembly
+Algorithm used in Miskolc Citizens' Assembly to randomly selecting participants, taking into account the mapping of the city's demographic structure.
 
 Written in R. Uses simmulated annealing with genSA package.
 
